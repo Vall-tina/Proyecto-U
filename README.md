@@ -1,8 +1,30 @@
-# React + Vite
+# Héroes Marvel
+Mini proyecto que pone aprueba los conocimientos del consumo de api y rutas privadas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Instalación
 
-Currently, two official plugins are available:
+Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina. Luego, sigue estos pasos:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clona el repositorio:**
+
+   ```bash
+   git clone <https://github.com/Vall-tina/Proyecto-U.git>
+
+2. **Navega al directorio del proyectp**
+
+   ```bash
+   cd heroes-marvel
+
+3. **Instala Dependencias**
+
+   ```bash
+   npm install
+
+
+4. **Ejecuta el proyecto**
+
+   ```bash
+   npm run dev
+
+
+  
